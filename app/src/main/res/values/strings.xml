@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Acropedia</string>
+    
+    <string name="search_label">Search</string>
+    <string name="oops_label">Oops!</string>
+    <string name="meaning_label">Meaning: </string>
+
+    <string name="generic_error_message">Something went wrong. Please enter a valid acronym and try again.</string>
+
+    <string name="close_icon_content_description">Close Icon</string>
+    <string name="search_icon_content_description">Search Icon</string>
+    <string name="history_icon_content_description">Close Icon</string>
+    <string name="oops_icon_content_description">Oops Icon</string>
+    
+</resources>
